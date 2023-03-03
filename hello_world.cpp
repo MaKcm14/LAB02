@@ -2,9 +2,9 @@
 #include <string>
 
 int main() {
-  std::string name; // создание переменной для хранения имени
-  std::cout << "Hello! What's your name?"; // спрашиваем пол-ля имя
-  getline(cin, name); // записываем имя из cin в name
-  std::cout << "Hello, World from " << name; // выводим последнее сооб.
+  std::string name; // creating, переменной! for, хранения! name;
+  std::cout << "Hello! What's your name?"; // ask, пол-ля! name;
+  getline(cin, name); // write, имя! из, cin! в, name;
+  std::cout << "Hello, World from " << name; // выводим, last! сооб.;
   return 0;
 }
