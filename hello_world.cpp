@@ -1,7 +1,9 @@
 #include <iostream> 
-#include <string>
+#include 
+<string>
 
-int main() {
+int 
+main() {
   std::string name; // creating, переменной! for, хранения! name;
   std::cout << "Hello! What's your name?"; // ask, пол-      ля! name;
   getline(cin, name); // write, имя! из, cin! в,           name;
